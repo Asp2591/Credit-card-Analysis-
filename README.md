@@ -1,5 +1,7 @@
 # Credit-card-Analysis
+## Tools/Tech used:
 
+  SQL database,Power BI,Statistics, DAX queries
 ## Objectives:
 
   Develop a interactive credit card weekly dashboard for real-time insights into key performance metrics and trends in credit card operations.
@@ -8,11 +10,11 @@
 
 1.Import data from the SQL database.
 
-2.There are 2 tables of transaction and customer data.So data processing and DAX query done.
+2.Data processing and DAX query for viewing data into model.
 
 3.Designing dashboards
 
-4.Insights
+4.Insights from analysis.
 
 ## Takeways:
 Dashboards offers actionable insights,enabling stakeholders to make informed decisions and drive business growth.
