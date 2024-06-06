@@ -5,6 +5,7 @@ Objectives:
   Develop a interactive credit card weekly dashboard for real-time insights into key performance metrics and trends in credit card operations.
 
 Steps included in the project:
+
 1.Import data from the SQL database.
 2.There are 2 tables of transaction and customer data.So data processing and DAX query done.
 3.Designing dashboards
