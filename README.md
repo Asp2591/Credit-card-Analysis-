@@ -7,8 +7,11 @@
 ## Steps included in the project:
 
 1.Import data from the SQL database.
+
 2.There are 2 tables of transaction and customer data.So data processing and DAX query done.
+
 3.Designing dashboards
+
 4.Insights
 
 ## Takeways:
